@@ -1,2 +1,2 @@
-# ChronoVM
-Cloud-based bytecode compiler and interpreter
+# cc
+Bytecode compiler/interpreter
